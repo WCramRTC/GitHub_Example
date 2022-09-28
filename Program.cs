@@ -13,6 +13,11 @@ namespace GitHub_Example
             // GitHub Example
             Console.WriteLine("Hello, GitHub");
 
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine(i);
+            }
+
         } // Main
 
     } // class
