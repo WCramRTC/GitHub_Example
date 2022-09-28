@@ -9,8 +9,9 @@ namespace GitHub_Example
     internal class Program
     {
         static void Main(string[] args)
-        { 
+        {
             // GitHub Example
+            Console.WriteLine("Hello, GitHub");
 
         } // Main
 
