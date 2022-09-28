@@ -18,6 +18,7 @@ namespace GitHub_Example
                 Console.WriteLine(i);
             }
 
+            Person p = new Person();
 
         } // Main
 
